@@ -7,6 +7,7 @@ class Tag extends Model {}
 Tag.init(
   {
     // define columns
+    // https://sequelize.org/docs/v6/core-concepts/model-basics/#data-types
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
