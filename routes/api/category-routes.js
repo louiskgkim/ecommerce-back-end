@@ -2,6 +2,7 @@ const router = require('express').Router();
 const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
+// look at 2/6/23 class recording for refresher
 
 router.get('/', (req, res) => {
   // find all categories
