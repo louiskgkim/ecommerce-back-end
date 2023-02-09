@@ -1,4 +1,4 @@
-# ecommerce-back-end
+# Ecommerce-Back-End
 
 ## Description
 
@@ -6,7 +6,8 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Screenshots](#Screenshots)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Credits](#credits)
 - [License](#license)
 
@@ -20,6 +21,17 @@ Node.js version 16.16.0: https://nodejs.org/en/blog/release/v16.16.0/
 ```
 npm i express@4.16.14
 ```
+
+```
+MySQL2 @3.1.0: https://www.npmjs.com/package/mysql2
+```
+
+## Usage
+1. Clone the repository
+2. Open terminal in the right file path
+3. Run 'npm install' or 'npm i' to download the packages needed
+4. Run the command node index.js to run the software
+5. Check command prompt
 
 ## Screenshots
 
@@ -41,8 +53,9 @@ npm i express@4.16.14
 No collaborators for this project. But some references are listed below:
 
 - [Node Installation Guide](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs/)
-
 - [Express.js Installation Guide](https://expressjs.com/en/starter/installing.html)
+- [MySQL2 Download Guide](https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide)
+- [console.table Package](https://www.npmjs.com/package/console.table)
 
 ## License
 
