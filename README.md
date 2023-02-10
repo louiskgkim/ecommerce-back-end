@@ -7,6 +7,7 @@ This is a backend application that services front end routes using MySql, Expres
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo Video](#demovideo)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
 - [License](#license)
@@ -33,8 +34,24 @@ Some files will be needed in order for this generator to operate:
 9. Run "npm run seed"
 10. Run "npm start"
 
-## Screenshots
+## Demo Video
+- [Demo Video](https://drive.google.com/file/d/1kBUXFY_En7D1pyJ3E9TgzsQrNknAPUHv/view)
 
+## Screenshots
+### Put (Update) Request
+![Update](https://user-images.githubusercontent.com/115679155/217982646-7885f7c0-6607-4d39-8093-35f2f946b4fb.png)
+
+### Delete Request
+![Delete](https://user-images.githubusercontent.com/115679155/217982610-9c1f16c4-4916-4cf4-848d-7a12bc3052a6.png)
+
+### Post (Create) Request
+![Create](https://user-images.githubusercontent.com/115679155/217982631-019a736e-d54a-4e50-96fe-9e92e2fbd7d5.png)
+
+### Get Request
+![Get](https://user-images.githubusercontent.com/115679155/217982680-34405a0d-d104-4da7-bb6a-3e162fa55301.png)
+
+### Get by ID Request
+![Get by ID](https://user-images.githubusercontent.com/115679155/217982687-4dc3fdc1-abc5-4252-bd76-0e39a6151bd3.png)
 
 
 ### Repository:
