@@ -1,7 +1,7 @@
 # Ecommerce-Back-End
 
 ## Description
-
+This is a backend application that services front end routes using MySql, Express.js, Sequelize, dotenv and Node.js.
 
 ## Table of Contents
 
