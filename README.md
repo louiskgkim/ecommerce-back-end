@@ -18,7 +18,7 @@ Some files will be needed in order for this generator to operate:
 - Node.js @16.16.0
 - npm i express @4.16.14
 - MySQL2 @3.1.0
-- Sequelize @6.28/.0
+- Sequelize @6.28.0
 - dotenv @16.0.3
 
 
