@@ -15,23 +15,22 @@
 Some files will be needed in order for this generator to operate.
 
 ```
-Node.js version 16.16.0: https://nodejs.org/en/blog/release/v16.16.0/
-```
+Node.js version 16.16.0
 
 ```
 npm i express@4.16.14
 ```
 
 ```
-MySQL2 @3.1.0: https://www.npmjs.com/package/mysql2
+MySQL2 @3.1.0
 ```
 
 ```
-Sequelize @6.28/.0: https://www.npmjs.com/package/sequelize
+Sequelize @6.28/.0
 ```
 
 ```
-dotenv @16.0.3: https://www.npmjs.com/package/dotenv
+dotenv @16.0.3
 ```
 
 ## Usage
@@ -64,6 +63,8 @@ No collaborators for this project. But some references are listed below:
 - [Express.js Installation Guide](https://expressjs.com/en/starter/installing.html)
 - [MySQL2 Download Guide](https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide)
 - [console.table Package](https://www.npmjs.com/package/console.table)
+- [Sequelize Installation Link](https://www.npmjs.com/package/sequelize)
+- [dotenv Installation Link](https://www.npmjs.com/package/dotenv)
 
 ## License
 
