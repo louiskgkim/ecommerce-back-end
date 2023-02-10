@@ -39,7 +39,12 @@ dotenv @16.0.3: https://www.npmjs.com/package/dotenv
 2. Open terminal in the right file path
 3. Run 'npm install' or 'npm i' to download the packages needed
 4. Run the command node server.js to run the software
-5. Check command prompt
+5. Run "mysql -u root -p"
+6. Enter PW when prompted
+7. Run "source db/schema.sql"
+8. Run "quit"
+9. Run "npm run seed"
+10. Run "npm start"
 
 ## Screenshots
 
@@ -47,7 +52,7 @@ dotenv @16.0.3: https://www.npmjs.com/package/dotenv
 
 ### Repository:
 ```
-
+https://github.com/louiskgkim/ecommerce-back-end
 ```
 
 
