@@ -26,21 +26,24 @@ npm i express@4.16.14
 MySQL2 @3.1.0: https://www.npmjs.com/package/mysql2
 ```
 
+```
+Sequelize @6.28/.0: https://www.npmjs.com/package/sequelize
+```
+
+```
+dotenv @16.0.3: https://www.npmjs.com/package/dotenv
+```
+
 ## Usage
 1. Clone the repository
 2. Open terminal in the right file path
 3. Run 'npm install' or 'npm i' to download the packages needed
-4. Run the command node index.js to run the software
+4. Run the command node server.js to run the software
 5. Check command prompt
 
 ## Screenshots
 
 
-
-## Heroku URL
-```
-
-```
 
 ### Repository:
 ```
